@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+.section.footer{
+    background-color: #101B2E;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.footer a{
+    color: #fff;
+    text-decoration: none !important;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .footer a:hover{
+    color: gray;
+  }
+  
+  .copy{
+    margin-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .face{
+    margin-left: 8px;
+  }
+  
+  .insta{
+    margin-left: 8px;
+  }
+  
+  .youtube{
+    margin-left: 8px;
+  }
